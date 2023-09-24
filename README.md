@@ -1,6 +1,6 @@
- codegeist_hackathon_23
+# codegeist_hackathon_23
 
- Automated Meeting Scheduling Forge App
+# Automated Meeting Scheduling Forge App
 
 
  This project contains a Forge App written in ReactJS for front-end and uses Django for back-end development work. 
